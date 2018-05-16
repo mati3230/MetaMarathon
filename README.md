@@ -21,8 +21,8 @@
 * Type an appropriate name for the image
 * Choose **Type Linux** and **Version Ubuntu (64 Bit)**
 * If you are not able to choose 64 bit: 
-** Ensure [Hyper-V](https://www.poweronplatforms.com/enable-disable-hyper-v-windows-10-8/) is disabled
-** Ensure [Hardware virtualization is enabled in the BIOS](https://superuser.com/questions/866962/why-does-virtualbox-only-have-32-bit-option-no-64-bit-option-on-windows-7?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+	** Ensure [Hyper-V](https://www.poweronplatforms.com/enable-disable-hyper-v-windows-10-8/) is disabled
+	** Ensure [Hardware virtualization is enabled in the BIOS](https://superuser.com/questions/866962/why-does-virtualbox-only-have-32-bit-option-no-64-bit-option-on-windows-7?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 * Choose **Use an existing virtual hard drive file**
 * Click on the folder button and browse for the .vdi file which you downloaded in the previous step
 * Click **Create**
