@@ -57,11 +57,16 @@
 * If closed, start eclipse 
 * Right click in **PyDev Package Explorer**
 * Select **New/Project...** option
+
 ![alt text](./images/CreateProject01.jpg "Create Project for MetaMarathon")
+
 * Select **PyDev/PyDev Project** and click **Next**
+
 ![alt text](./images/CreateProject03.jpg "Select PyDev Project")
+
 * Type project name **MetaMarathon**
 * Select grammar version **3.0-3.5**
 * Select interpreter **/home/modalg/miniconda3/envs/modalg/bin/python3.5**
 * Press **Finish**
+
 ![alt text](./images/CreateProject02.jpg "Setup Project Properties")
