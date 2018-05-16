@@ -26,6 +26,7 @@
 * Choose **Use an existing virtual hard drive file**
 * Click on the folder button and browse for the .vdi file which you downloaded in the previous step
 * Click **Create**
+
 ![alt text](./images/ImportImage01.jpg "Image import options")
 
 ### Start the Image
@@ -39,6 +40,7 @@
 * Click on **Ubuntu-Button** and search for **eclipse**
 * Execute eclipse
 * Click **ok** when **workspace dialog** appears
+
 ![alt text](./images/StartEclipse01.jpg "Start eclipse")
 
 ### Run Test Project
@@ -46,6 +48,7 @@
 * Open **test** folder in **modalg181-Project**
 * Double click on any of the files
 * Execute file with click on **run** button (**run as Python Run**)
+
 ![alt text](./images/RunScript01.jpg "Run script in eclipse")
 
 ### Clone this repository and setup eclipse
