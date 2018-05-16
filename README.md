@@ -47,3 +47,21 @@
 * Double click on any of the files
 * Execute file with click on **run** button (**run as Python Run**)
 ![alt text](./images/RunScript01.jpg "Run script in eclipse")
+
+### Clone this repository and setup eclipse
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* Type **git clone https://github.com/mati3230/MetaMarathon.git** in terminal
+* If closed, start eclipse 
+* Right click in **PyDev Package Explorer**
+* Select **New/Project...** option
+![alt text](./images/CreateProject01.jpg "Create Project for MetaMarathon")
+* Select **PyDev/PyDev Project** and click **Next**
+![alt text](./images/CreateProject03.jpg "Select PyDev Project")
+* Type project name **MetaMarathon**
+* Select grammar version **3.0-3.5**
+* Select interpreter **/home/modalg/miniconda3/envs/modalg/bin/python3.5**
+* Press **Finish**
+![alt text](./images/CreateProject02.jpg "Setup Project Properties")
