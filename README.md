@@ -27,7 +27,7 @@
 * Click on the folder button and browse for the .vdi file which you downloaded in the previous step
 * Click **Create**
 
-![alt text](./images/ImportImage01.jpg "Image import options")
+![alt text](./images/ImportImage01.jpg)
 
 ### Start the Image
 
@@ -41,7 +41,7 @@
 * Execute eclipse
 * Click **ok** when **workspace dialog** appears
 
-![alt text](./images/StartEclipse01.jpg "Start eclipse")
+![alt text](./images/StartEclipse01.jpg)
 
 ### Run Test Project
 
@@ -49,7 +49,7 @@
 * Double click on any of the files
 * Execute file with click on **run** button (**run as Python Run**)
 
-![alt text](./images/RunScript01.jpg "Run script in eclipse")
+![alt text](./images/RunScript01.jpg)
 
 ### Clone this repository and setup eclipse
 
@@ -61,15 +61,40 @@
 * Right click in **PyDev Package Explorer**
 * Select **New/Project...** option
 
-![alt text](./images/CreateProject01.jpg "Create Project for MetaMarathon")
+![alt text](./images/CreateProject01.jpg)
 
 * Select **PyDev/PyDev Project** and click **Next**
 
-![alt text](./images/CreateProject03.jpg "Select PyDev Project")
+![alt text](./images/CreateProject03.jpg)
 
 * Type project name **MetaMarathon**
 * Select grammar version **3.0-3.5**
 * Select interpreter **/home/modalg/miniconda3/envs/modalg/bin/python3.5**
 * Press **Finish**
 
-![alt text](./images/CreateProject02.jpg "Setup Project Properties")
+![alt text](./images/CreateProject02.jpg)
+
+## Work with the repository
+
+### Clone the repository
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* Type **git clone https://github.com/mati3230/MetaMarathon.git** in terminal
+
+### Update to latest state
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* Type **git pull origin master** in terminal
+
+### Switch to branch with certain **level of difficulty**
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* There are the the branches **easy**, **medium** and **hard**. Type **git checkout easy** in terminal to switch to **easy**-branch. Type **git checkout medium** in terminal to switch to **medium**-branch
+* If closed, start eclipse 
+* Left click on the project **MetaMarathon** you created before in step **Clone this repository and setup eclipse** and press **F5** to refresh the project. Now you should see a **dqn** folder. 
