@@ -27,7 +27,7 @@
 * Click on the folder button and browse for the .vdi file which you downloaded in the previous step
 * Click **Create**
 
-![alt text](./images/ImportImage01.jpg)
+<img src="./images/ImportImage01.jpg" width="100">
 
 ### Start the Image
 
@@ -41,7 +41,7 @@
 * Execute eclipse
 * Click **ok** when **workspace dialog** appears
 
-![alt text](./images/StartEclipse01.jpg)
+<img src="./images/StartEclipse01.jpg" width="100">
 
 ### Run Test Project
 
@@ -49,7 +49,7 @@
 * Double click on any of the files
 * Execute file with click on **run** button (**run as Python Run**)
 
-![alt text](./images/RunScript01.jpg "Run script in eclipse")
+<img src="./images/RunScript01.jpg" width="100">
 
 ### Clone this repository and setup eclipse
 
@@ -61,18 +61,18 @@
 * Right click in **PyDev Package Explorer**
 * Select **New/Project...** option
 
-![alt text](./images/CreateProject01.jpg)
+<img src="./images/CreateProject01.jpg" width="100">
 
 * Select **PyDev/PyDev Project** and click **Next**
 
-![alt text](./images/CreateProject03.jpg)
+<img src="./images/CreateProject03.jpg" width="100">
 
 * Type project name **MetaMarathon**
 * Select grammar version **3.0-3.5**
 * Select interpreter **/home/modalg/miniconda3/envs/modalg/bin/python3.5**
 * Press **Finish**
 
-![alt text](./images/CreateProject02.jpg)
+<img src="./images/CreateProject02.jpg" width="100">
 
 ## Work with the repository
 
