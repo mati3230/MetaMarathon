@@ -98,3 +98,20 @@
 * There are the the branches **easy**, **medium** and **hard**. Type **git checkout easy** in terminal to switch to **easy**-branch. Type **git checkout medium** in terminal to switch to **medium**-branch
 * If closed, start eclipse 
 * Left click on the project **MetaMarathon** you created before in step **Clone this repository and setup eclipse** and press **F5** to refresh the project. Now you should see a **dqn** folder. 
+
+## Work with Python and the Frameworks
+
+### Python
+
+* [Python Cheat-Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [Python Beginner Tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+### OpenAI
+
+* [Basic OpenAI Tutorial](https://gym.openai.com/docs/)
+
+### Tensorflow
+
+* [Getting Started With TensorFlow](https://www.tensorflow.org/versions/r1.1/get_started/get_started)
+* [Advanced TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+* [Tensorflow 1.5 Documentation](https://www.tensorflow.org/versions/r1.5/api_docs/)
