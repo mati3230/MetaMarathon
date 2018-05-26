@@ -73,3 +73,28 @@
 * Press **Finish**
 
 ![alt text](./images/CreateProject02.jpg "Setup Project Properties")
+
+## Work with the repository
+
+### Clone the repository
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* Type **git clone https://github.com/mati3230/MetaMarathon.git** in terminal
+
+### Update to latest state
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* Type **git pull origin master** in terminal
+
+### Switch to branch with certain **level of difficulty**
+
+* Open explorer
+* Navigate to folder **Projekte**
+* Right click in explorer and select **Open in terminal** option
+* There are the the branches **easy**, **medium** and **hard**. Type **git checkout easy** in terminal to switch to **easy**-branch. Type **git checkout medium** in terminal to switch to **medium**-branch
+* If closed, start eclipse 
+* Left click on the project **MetaMarathon** you created before in step **Clone this repository and setup eclipse** and press **F5** to refresh the project. Now you should see a **dqn** folder. 
