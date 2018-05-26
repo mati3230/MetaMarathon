@@ -115,3 +115,7 @@
 * [Getting Started With TensorFlow](https://www.tensorflow.org/versions/r1.1/get_started/get_started)
 * [Advanced TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
 * [Tensorflow 1.5 Documentation](https://www.tensorflow.org/versions/r1.5/api_docs/)
+
+## Model
+
+* You can download trained weights of the model [here](https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)
