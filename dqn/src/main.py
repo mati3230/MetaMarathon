@@ -33,7 +33,7 @@ tf.app.flags.DEFINE_integer("epsilon_decay_steps", 500000, """Number of steps to
 tf.app.flags.DEFINE_integer("batch_size", 32, """Size of batches to sample from the replay memory""")
 tf.app.flags.DEFINE_boolean("record_video", False, """Decide if video should be recorded while training""")
 tf.app.flags.DEFINE_integer("record_video_every", 50, """Record a video every N episodes""")
-tf.app.flags.DEFINE_boolean("train", False, """if True: autonomous agent will play game""")
+tf.app.flags.DEFINE_boolean("train", True, """if True: autonomous agent will play game""")
 tf.app.flags.DEFINE_string("environment", "Breakout-v0", """Environment that should be adapted - you may have to change StateProcessor and Estimator image sizes when you change the environment""")
 
 # dictionary 
