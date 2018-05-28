@@ -1,5 +1,15 @@
 # MetaMarathon
 
+## Task
+
+Clone the repository and switch to one of the branches named easy, medium and hard. Fill in the gaps which are marked with **TODO**. Execute script dqn/src/main.py. All scripts can include TODOs. After finishing development, you can download pretrained weights from the Nextcloud-folder and see the agent play. You switch between training and playing process by changing the **train**-Flag. The slides can be downloaded as pdf from the [Nextcloud](https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)(filename: "Build your own Hero.pdf")
+ 
+### Aim
+
+Develop an AI which is able to play Atari games. Reinforement Learning with Deep Q Networks is used to train an autonomous agent. 
+
+![alt text](./images/Breakout01.jpg)
+
 ## Requirements
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -116,6 +126,7 @@
 * [Advanced TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
 * [Tensorflow 1.5 Documentation](https://www.tensorflow.org/versions/r1.5/api_docs/)
 
-## Model
+## Pretrained Model
 
-* You can download trained weights of the model [here](https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)
+* You can download pretrained weights of the model [here](https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)
+* Place the files to /dqn/src/experiments/Breakout-v0/checkpoints
