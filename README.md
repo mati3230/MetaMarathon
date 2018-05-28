@@ -2,7 +2,7 @@
 
 ## Task
 
-Clone the repository and switch to one of the branches named easy, medium and hard. Fill in the gaps which are marked with **TODO**. Execute script dqn/src/main.py. All scripts can include TODOs. After finishing development, you can download pretrained weights from the Nextcloud-folder and see the agent play. You switch between training and playing process by changing the **train**-Flag. The slides can be downloaded as pdf from the [Nextcloud](https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)(filename: "Build your own Hero.pdf")
+Clone the repository and switch to one of the branches named easy, medium and hard. Fill in the gaps which are marked with **TODO**. Execute script dqn/src/main.py. All scripts can include TODOs. After finishing development, you can download pretrained weights from the Nextcloud-folder and see the agent play. You switch between training and playing process by changing the **train**-Flag. The slides can be downloaded as pdf from the [Nextcloud] (https://nextcloud.mirevi.medien.hs-duesseldorf.de/index.php/s/LPlGOaw87G9iQa8)(filename: "Build your own Hero.pdf"). 
  
 ### Aim
 
